@@ -19,12 +19,12 @@
 - Hice cursos de programación en Java, Visual Basic, php, HTML5, CSS.
   
 ### En otro orden...
-  - Tenía un perro que se llama Alonso, pero el se quedó con mi ex :( (Lo extraño, por eso
+  - 🐶Tenía un perro que se llama Alonso, pero el se quedó con mi ex :( (Lo extraño, por eso
     trato de no pensar en él)
-  - Me gusta leer, escribir, dibujar, escucho mucha musica y me intereso por múltiples actividades.
-  - También soy artista, soy actor de cine y teatro, clown e hice mi primer acercamiento a la pintura con acrílicos
+  - 📚 Me gusta leer, escribir, dibujar, escucho mucha musica y me intereso por múltiples actividades.
+  - 🎨 También soy artista, soy actor de cine y teatro, clown e hice mi primer acercamiento a la pintura con acrílicos
     a fines de 2024.
-  - A veces trato de cantar y tocar la guitarra (Pero eso sólo en la intimidad porque me falta mucha práctica).
+  - 🎵 A veces trato de cantar y tocar la guitarra (Pero eso sólo en la intimidad porque me falta mucha práctica).
 
 
   - 
