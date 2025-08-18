@@ -23,7 +23,7 @@
 > [!CAUTION]
 > Información importante para el/la lector/ra:
 > Tema sensible a continuación:
-  - 🐶Tenía un perro que se llama Alonso, pero el se quedó con mi ex :( (Lo extraño, por eso
+  - 🐶Tenía un perro que se llama Alonso, pero el se quedó con mi ex ☹️ (Lo extraño, por eso
     trato de no pensar en él💔)
 > [!NOTE]
 > 🎨 También soy artista:
