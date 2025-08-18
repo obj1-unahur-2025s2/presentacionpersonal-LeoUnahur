@@ -16,7 +16,8 @@
 - Soy estudiante asistente de la materia "Matemática para informática 1" en UNAHUR desde marzo de 2025.
 - También estudié "Ingeniería Electrónica" en UNLAM (hasta 3er año, tuve que dejar por trabajo)
 - También estudia redes, hice el CCNA de Cisco Systems en Fundación Proydesa
-- Hice cursos de programación en Java, Visual Basic, php, HTML5, CSS.
+- Hice cursos de programación en Java, Visual Basic, php.
+- También de diseño web básico con HTML5 y CSS.
   
 ### En otro orden...
   - 🐶Tenía un perro que se llama Alonso, pero el se quedó con mi ex :( (Lo extraño, por eso
