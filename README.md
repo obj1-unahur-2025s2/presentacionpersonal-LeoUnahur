@@ -6,6 +6,7 @@
 ### Datos Personales
 - Mi nombre es: Leonardo Diego Baldini
 - Vivo en Vila Tesei, Hurlingham. Pcia. de Bs. As.leobaldini
+- Curso la tecnicatura superior en Inteligencia Artificial en UNAHUR DESDE 2023.
 - Mis redes son: IG:@leobaldini, FB:@leo.baldini
 
 
