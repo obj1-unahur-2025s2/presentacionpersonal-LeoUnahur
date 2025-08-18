@@ -25,7 +25,9 @@
 > Tema sensible a continuación:
   - 🐶Tenía un perro que se llama Alonso, pero el se quedó con mi ex :( (Lo extraño, por eso
     trato de no pensar en él💔)
+> [!NOTE]
+> 🎨 También soy artista:
+  - Pinto, hice mi primer acercamiento a la pintura con acrílicos a fines de 2024.
   - 📚 Me gusta leer, escribir, dibujar, escucho mucha musica y me intereso por múltiples actividades.
-  - 🎨 También soy artista, soy actor de cine y teatro, clown e hice mi primer acercamiento a la pintura con acrílicos
-    a fines de 2024.
+  - Soy actor de cine y teatro Y clown 
   - 🎵 A veces trato de cantar y tocar la guitarra (Pero eso sólo en la intimidad porque me falta mucha práctica).
