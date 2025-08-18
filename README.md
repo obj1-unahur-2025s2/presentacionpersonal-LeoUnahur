@@ -21,7 +21,7 @@
   
 ### En otro orden...
 
->[PRECAUCION!]
+>[Caution!]
 >Corazón sensible:
   - 🐶Tenía un perro que se llama Alonso, pero el se quedó con mi ex :( (Lo extraño, por eso
     trato de no pensar en él)
