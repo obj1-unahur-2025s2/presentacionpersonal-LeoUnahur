@@ -21,8 +21,8 @@
   
 ### En otro orden...
 > [!IMPORTANT]
-> Información importante para le lectore:
-> Corazón sensible a la vista
+> Información importante para el/la lector/ra:
+> Corazón sensible a la vista 💗:
   - 🐶Tenía un perro que se llama Alonso, pero el se quedó con mi ex :( (Lo extraño, por eso
     trato de no pensar en él)
   - 📚 Me gusta leer, escribir, dibujar, escucho mucha musica y me intereso por múltiples actividades.
