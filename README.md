@@ -20,8 +20,8 @@
 - También de diseño web básico con HTML5 y CSS.
   
 ### En otro orden...
-
->[Caution!]
+> [!IMPORTANT]
+> Información importante para le lectore:
 >Corazón sensible:
   - 🐶Tenía un perro que se llama Alonso, pero el se quedó con mi ex :( (Lo extraño, por eso
     trato de no pensar en él)
