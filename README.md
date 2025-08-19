@@ -5,13 +5,13 @@
 
 ### Datos Personales
 - Mi nombre es: Leonardo Diego Baldini
-- Vivo en Vila Tesei, Hurlingham. Pcia. de Bs. As.leobaldini
+- Vivo en Vila Tesei, Hurlingham. Pcia. de Bs. As.
 - Curso la tecnicatura superior en Inteligencia Artificial en UNAHUR DESDE 2023.
 - Mis redes son: IG:@leobaldini, FB:@leo.baldini
 
 
 ### Otra Información
-- Este NO es mi primer contacto con github, hice esta cuenta para usarla
+- Este NO es mi primer contacto con GitHub, hice esta cuenta para usarla
   en la materia "Programacion con Objetos 1".
 - Soy estudiante asistente de la materia "Matemática para informática 1" en UNAHUR desde marzo de 2025.
 - Estudié "Ingeniería Electrónica" en UNLAM (hasta 3er año, tuve que dejar por trabajo)
@@ -29,5 +29,5 @@
 > 🎨 También soy artista:
   - Pinto, hice mi primer acercamiento a la pintura con acrílicos a fines de 2024.
   - 📚 Me gusta leer, escribir, dibujar, escucho mucha musica y me intereso por múltiples actividades.
-  - Soy actor de cine y teatro Y clown 
+  - : Soy actor de cine y teatro Y clown 
   - 🎵 A veces trato de cantar y tocar la guitarra (Pero eso sólo en la intimidad porque me falta mucha práctica).
